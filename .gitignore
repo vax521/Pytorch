@@ -1,0 +1,25 @@
+
+*.jpg
+*.txt
+data/mnist/raw/t10k-images-idx3-ubyte
+data/mnist/raw/train-images-idx3-ubyte
+data/mnist/processed/training.pt
+data/mnist/processed/test.pt
+data/mnist/raw/t10k-labels-idx1-ubyte
+data/mnist/raw/train-labels-idx1-ubyte
+*.pkl
+Spatial Transformer/raw/t10k-images-idx3-ubyte
+Spatial Transformer/raw/train-images-idx3-ubyte
+Spatial Transformer/raw/t10k-labels-idx1-ubyte
+Spatial Transformer/raw/train-labels-idx1-ubyte
+*.pth
+*.zip
+*.meta
+data/cifar-10-batches-py/data_batch_2
+data/cifar-10-batches-py/data_batch_3
+data/cifar-10-batches-py/data_batch_1
+data/cifar-10-batches-py/data_batch_4
+data/cifar-10-batches-py/data_batch_5
+data/cifar-10-batches-py/readme.html
+data/cifar-10-batches-py/test_batch
+data/cifar-10-python.tar.gz
